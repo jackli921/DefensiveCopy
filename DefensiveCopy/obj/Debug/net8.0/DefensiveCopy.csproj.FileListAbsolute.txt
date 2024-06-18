@@ -1,0 +1,14 @@
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\bin\Debug\net8.0\DefensiveCopy.exe
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\bin\Debug\net8.0\DefensiveCopy.deps.json
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\bin\Debug\net8.0\DefensiveCopy.runtimeconfig.json
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\bin\Debug\net8.0\DefensiveCopy.dll
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\bin\Debug\net8.0\DefensiveCopy.pdb
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.AssemblyInfoInputs.cache
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.AssemblyInfo.cs
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.csproj.CoreCompileInputs.cache
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.dll
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\refint\DefensiveCopy.dll
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.pdb
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\DefensiveCopy.genruntimeconfig.cache
+C:\Users\Jack.li\RiderProjects\DefensiveCopy\DefensiveCopy\obj\Debug\net8.0\ref\DefensiveCopy.dll
